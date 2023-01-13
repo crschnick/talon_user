@@ -1,0 +1,12 @@
+[submodule "knausj_talon"]
+	path = knausj_talon
+	url = https://github.com/crschnick/knausj_talon
+[submodule "talon_java"]
+	path = talon_java
+	url = https://github.com/crschnick/talon_java
+[submodule "rango"]
+	path = rango
+	url = https://github.com/david-tejada/rango
+[submodule "talon_german"]
+	path = talon_german
+	url = https://github.com/timo95/talon_german
