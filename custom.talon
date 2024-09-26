@@ -23,9 +23,6 @@ end ten | end do:
     key(enter)
 
 
-scroll:
-    user.toggle_scroll()
-
 ship <user.word>: user.insert_formatted(user.word, "hammer")
 
 del:
@@ -121,3 +118,5 @@ insert link:
     insert("<")
     key(ctrl-v)
     insert(">")
+
+key(insert): speech.toggle()
