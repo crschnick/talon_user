@@ -10,3 +10,6 @@
 [submodule "talon_german"]
 	path = talon_german
 	url = https://github.com/timo95/talon_german
+[submodule "talon_community"]
+	path = talon_community
+	url = https://github.com/crschnick/talon_community
